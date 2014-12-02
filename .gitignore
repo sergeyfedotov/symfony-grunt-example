@@ -12,6 +12,3 @@
 /composer.phar
 /node_modules/
 /web/assets/libs/*
-/web/assets/css/dist/*
-/web/assets/js/dist/*
-/web/assets/img/dist/*
