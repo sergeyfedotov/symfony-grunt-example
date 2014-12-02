@@ -1,0 +1,9 @@
+{
+  "name": "assets",
+  "dependencies": {
+    "jquery": "~2.1.x",
+    "jquery-ui": "~1.11.x",
+    "normalize.css": "~3.0.0",
+    "html5shiv": "~3.7.2"
+  }
+}

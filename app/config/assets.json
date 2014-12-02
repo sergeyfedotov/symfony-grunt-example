@@ -1,0 +1,24 @@
+{
+    "css": {
+        "main": {
+            "output": "assets/css/dist/main.min.css",
+            "input": [
+                "assets/libs/normalize.css/normalize.css",
+                "assets/libs/jquery-ui/themes/smoothness/jquery-ui.css"
+            ]
+        }
+    },
+    "js": {
+        "vendor": {
+            "output": "assets/js/dist/vendor.min.js",
+            "input": [
+                "assets/libs/jquery/dist/jquery.js",
+                "assets/libs/jquery-ui/jquery-ui.js"
+            ]
+        },
+        "html5shiv": {
+            "output": "assets/js/dist/html5shiv.min.js",
+            "input": "assets/libs/html5shiv/dist/html5shiv.js"
+        }
+    }
+}
